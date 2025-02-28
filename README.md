@@ -1,6 +1,6 @@
 # Allocation de tâches pour une flotte de taxis
 
-Ce projet s’inscrit dans l’étude et la mise en œuvre de méthodes décentralisées pour l’allocation de tâches dans des flottes de taxis autonomes. 
+Ce projet s’inscrit dans l’étude et la mise en œuvre de méthodes décentralisées pour l’allocation de tâches dans des flottes de taxis autonomes.\
 Le problème abordé consiste à gérer l’affectation dynamique de trajets, générés aléatoirement dans un environnement 2D, à un ensemble de taxis. 
 L’objectif principal est d’optimiser cette allocation de manière à minimiser la distance totale parcourue par l’ensemble de la flotte.
 L'environnement crée repose sur une architecture orientée objet en Python, où sont représentés l’espace de travail, les taxis, ainsi que les tâches à réaliser. 
